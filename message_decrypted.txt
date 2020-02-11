@@ -1,1 +1,1 @@
-Mensaje prueba con maYusculas Y minusculas simbolos como  retornos de carro Y numeros 1234567890  fin mensaje
+MENSAJE PRUEBA CON MAYUSCULAS Y MINUSCULAS SIMBOLOS COMO  RETORNOS DE CARRO Y NUMEROS 1234567890  FIN MENSAJE
